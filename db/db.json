@@ -1,0 +1,158 @@
+{
+    "1e7656ce": {
+        "status": true,
+        "owner": {
+            "id": "43408d16-66a1-459b-994e-2d5ce5df5770",
+            "name": "ycordoba"
+        },
+        "players": []
+    },
+    "2fa14ca8": {
+        "status": true,
+        "owner": {
+            "id": "e0b562b6-1543-4803-8d6e-7ca5353d8fa2",
+            "name": "ycordoba"
+        },
+        "players": []
+    },
+    "1376253a": {
+        "status": true,
+        "owner": {
+            "id": "c0b2e5e7-8595-434c-8504-78793c6b2e50",
+            "name": "ycordoba"
+        },
+        "players": []
+    },
+    "d792f0db": {
+        "status": true,
+        "owner": {
+            "id": "3754cce5-af49-413c-afee-f965909309bd",
+            "name": "ycordoba"
+        },
+        "players": [{
+            "id": "3754cce5-af49-413c-afee-f965909309bd",
+            "name": "ycordoba",
+            "buenas": 0,
+            "malas": 0,
+            "noRespondidas": 0
+        }]
+    },
+    "e13ed21e": {
+        "status": true,
+        "owner": {
+            "id": "2aed84a1-308f-4d54-9653-4e5daea4f2d0",
+            "name": "ycordoba"
+        },
+        "players": [{
+            "id": "2aed84a1-308f-4d54-9653-4e5daea4f2d0",
+            "name": "ycordoba",
+            "buenas": 0,
+            "malas": 0,
+            "noRespondidas": 0
+        }]
+    },
+    "e916f71f": {
+        "status": true,
+        "owner": {
+            "id": "8f670084-9f5b-4b6b-bfe1-fbb0bf9502c2",
+            "name": "cordobita"
+        },
+        "players": [{
+            "id": "8f670084-9f5b-4b6b-bfe1-fbb0bf9502c2",
+            "name": "cordobita",
+            "buenas": 0,
+            "malas": 0,
+            "noRespondidas": 0
+        }]
+    },
+    "b03e7d50": {
+        "status": true,
+        "owner": {
+            "id": "22bf8500-e52b-4c48-aabc-994aea96b360",
+            "name": "CCD"
+        },
+        "players": [{
+            "id": "22bf8500-e52b-4c48-aabc-994aea96b360",
+            "name": "CCD",
+            "buenas": 0,
+            "malas": 0,
+            "noRespondidas": 0
+        }]
+    },
+    "dd84d6dc": {
+        "status": true,
+        "owner": {
+            "id": "6da64beb-caa2-4ddf-8951-0be3131204e0",
+            "name": "hbfdgh"
+        },
+        "players": [{
+            "id": "6da64beb-caa2-4ddf-8951-0be3131204e0",
+            "name": "hbfdgh",
+            "buenas": 0,
+            "malas": 0,
+            "noRespondidas": 0
+        }, {
+            "id": "60c32cca-d0fc-4118-a230-8d205648e1e0",
+            "name": "Yeco",
+            "buenas": 0,
+            "malas": 0,
+            "noRespondidas": 0
+        }]
+    },
+    "7d712428": {
+        "status": true,
+        "owner": {
+            "id": "3754cce5-af49-413c-afee-f965909309bd",
+            "name": "ycordoba"
+        },
+        "players": [{
+            "id": "3754cce5-af49-413c-afee-f965909309bd",
+            "name": "ycordoba",
+            "buenas": 0,
+            "malas": 0,
+            "noRespondidas": 0
+        }]
+    },
+    "6cc0679b": {
+        "status": true,
+        "owner": {
+            "id": "d602af63-4d76-47f3-b049-8fdfb1737cd7",
+            "name": "yija"
+        },
+        "players": [{
+            "id": "d602af63-4d76-47f3-b049-8fdfb1737cd7",
+            "name": "yija",
+            "buenas": 0,
+            "malas": 0,
+            "noRespondidas": 0
+        }]
+    },
+    "a7c83829": {
+        "status": true,
+        "owner": {
+            "id": "47a33d17-bfb1-4e6e-8e1e-7a49d3d59d2f",
+            "name": "dona"
+        },
+        "players": [{
+            "id": "47a33d17-bfb1-4e6e-8e1e-7a49d3d59d2f",
+            "name": "dona",
+            "buenas": 0,
+            "malas": 0,
+            "noRespondidas": 0
+        }]
+    },
+    "44768c5f": {
+        "status": true,
+        "owner": {
+            "id": "4fe6c2ad-468e-40d2-be7d-be49ec21f0cb",
+            "name": "cordobita"
+        },
+        "players": [{
+            "id": "4fe6c2ad-468e-40d2-be7d-be49ec21f0cb",
+            "name": "cordobita",
+            "buenas": 0,
+            "malas": 0,
+            "noRespondidas": 0
+        }]
+    }
+}
